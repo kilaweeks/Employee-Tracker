@@ -1,34 +1,19 @@
-
-  ![License](https://img.shields.io/badge/license-MIT%20License-blue)
+  ## Employee Tracker
   
-  ## Title
+  ![License](https://img.shields.io/badge/license-MIT%20License-blue)
 
-  Employee Tracker
+  ## Walkthrough Video 
+  https://drive.google.com/file/d/11GvAqc7vxoT_DAs1emdRxAYE3v9DK0o1/view
 
   ## Description
 
-  # Walkthrough Video 
-  https://drive.google.com/file/d/11GvAqc7vxoT_DAs1emdRxAYE3v9DK0o1/view
+  This is a command-line application that uses the MySQL database and the inquirer package to allow the user to add and view departments, roles and employees and to update employee roles in the database.
 
-  ## Table of Contents
+  ![screenshot](/screenshot.png)
 
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Questions](#questions)
-  
   ## Installation
 
-  
-
-  ## Usage
-
-  
-
-  ## Contributing
-
-  
+  To run the application locally, clone this repository and run npm i in the terminal in order to install all dependencies. Run node index.js to invoke the application and begin the prompts.
 
   ## License
 
